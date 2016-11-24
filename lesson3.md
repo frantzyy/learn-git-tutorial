@@ -27,6 +27,12 @@ feature/yourLastName
 
 `git checkout feature/{yourLastName}`
 
+`git status`
+
+You should see:
+On branch feature/yourLastName
+nothing to commit, working directory clean
+
 
 # Step 3 - Make an update
 
