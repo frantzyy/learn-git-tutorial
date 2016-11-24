@@ -60,6 +60,20 @@ nothing to commit, working directory clean
 
 `git status`
 
+# Step 9 - Checout master 
+
+`git checkout master`
+
+Notice now your directory has updated and you should see your updates are no longer there. That's because we haven't merged them from your feature branch to the master branch yet.
+
+Juut to prove your changes haven't been lost, checout your feature branch.
+
+`git checkout feature/{yourLastName}`
+
+Now you should see your updates again. Ahh... sigh of relief. 
+
+Take a break now, we'll get into merging your feature back to master next.
+
 
 
 
