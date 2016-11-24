@@ -6,5 +6,3 @@ A tutorial for learning git with step by step tasks to follow
 
 # Lesson 2
 
-
-
