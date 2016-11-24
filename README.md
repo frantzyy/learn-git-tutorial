@@ -16,7 +16,7 @@ A tutorial for learning git with step by step tasks to follow
 
 # Lesson 7 - Creating a Pull request
 
-# Lesson 8 - =
-
 # Lesson 6 - Undoing a commit?
+
+# Lesson 9 - TODO
 
