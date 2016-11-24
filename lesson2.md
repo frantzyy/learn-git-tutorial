@@ -18,7 +18,7 @@ TODO: add aws insprof-learn-git repo here
 
 `git add nameOfFile.txt` 
 
-This will add all the files you've created to your staging directory. This is similar to checking in your files to a change set in RTC.
+This will add the new file you've created to your staging directory. This is similar to checking in your files to a change set in RTC.
 
 Alternatively, if you have a lot of changes and want to add them all you can do:
 
