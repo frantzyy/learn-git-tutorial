@@ -1,5 +1,12 @@
+# Lesson 2 - Git basics
+
+In this lesson you'll go through the basics of cloning a repo, adding a new file, commiting it, and pushing back the remote server.
+
 # Step 1 - Clone a repo
 
+TODO: add aws insprof-learn-git repo here
+
+`git clone blah blah`
 
 # Step 2 - Add a new file
 
