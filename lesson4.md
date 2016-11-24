@@ -25,3 +25,13 @@ In our scenario, we want to combine your feature branch into master.
 
 `git status`
 
+You should see:
+```
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+```
+
+You've just completed your first feature! 
+
+It's time to clean up after yourself and delete your branch. See how in the next lesson.
