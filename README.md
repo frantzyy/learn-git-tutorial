@@ -10,9 +10,9 @@ A tutorial for learning git with step by step tasks to follow
 
 # Lesson 4 - Merging a branch with no conflicts
 
-# Lesson 5 - Merging a branch with conflicts
+# Lesson 5 - Deleting a branch
 
-# Lesson 6 - Deleting a branch
+# Lesson 6 - Mergin a branch with conflicts
 
 # Lesson 7 - Creating a Pull request
 

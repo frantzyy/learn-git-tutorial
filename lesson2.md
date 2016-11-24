@@ -2,19 +2,19 @@
 
 In this lesson you'll go through the basics of cloning a repo, adding a new file, commiting it, and pushing back the remote server.
 
-# Step 1 - Clone a repo
+## Step 1 - Clone a repo
 
 TODO: add aws insprof-learn-git repo here
 
 `git clone blah blah`
 
-# Step 2 - Add a new file
+## Step 2 - Add a new file
 
 - create a new file in your latest team folder (if your team folder doesn't exisit create it too )
 - name it {lastName}_{firstName}.txt
 - add your email addresss to line 1
 
-# Step 3 - Add new file to staging directory
+## Step 3 - Add new file to staging directory
 
 `git add nameOfFile.txt` 
 
@@ -24,23 +24,23 @@ Alternatively, if you have a lot of changes and want to add them all you can do:
 
 `git add --all` or `git add -A` or `git .`
 
-# Step 4 - Commit the new file
+## Step 4 - Commit the new file
 
 `commit -m "a descriptive messages"`
 
 
-# Step 5 - Check the status
+## Step 5 - Check the status
 
 `git status`
 
 
-# Step 6 - Push changes to origin
+## Step 6 - Push changes to origin
 
 `git push origin master`
 
 How do you know what to push to? Well by doing a `git status` prior, git tells you what branch you are currently working on and in the normal flow you will want to push to that branch's remote origin first. Later on we'll get in to merging branches.
 
-# Step 7 - Check the status
+## Step 7 - Check the status
 
 `git status`
 
