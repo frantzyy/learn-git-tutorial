@@ -1,0 +1,3 @@
+christopher.frantz@blah.com
+Comfort level with git before this tutorial: 2
+

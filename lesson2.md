@@ -10,9 +10,9 @@ TODO: add aws insprof-learn-git repo here
 
 # Step 2 - Add a new file
 
-- create a new file
+- create a new file in your latest team folder (if your team folder doesn't exisit create it too )
 - name it {lastName}_{firstName}.txt
-- add your email to it
+- add your email addresss to line 1
 
 # Step 3 - Add new file to staging directory
 
