@@ -1,3 +1,4 @@
 christopher.frantz@blah.com
 Comfort level with git before this tutorial: 2
-Changed in master
+Changed in master and feature branch.
+
