@@ -1,5 +1,5 @@
 christopher.frantz@blah.com
 Comfort level with git before this tutorial: 2
-Changed in master and feature branch. Second time.
-
+Lesson 6 - Changed in master and feature branch. Second time.
+Lesson 7 - submitting a pull request
 
