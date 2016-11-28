@@ -16,7 +16,7 @@ A tutorial for learning git with step by step tasks to follow
 
 ## [Lesson 7 - Creating a Pull request](https://github.com/frantzyy/learn-git-tutorial/blob/master/lesson7.md)
 
-## [Lesson 6 - Undoing a commit?]()
+## [Lesson 8 - Git log basics](https://github.com/frantzyy/learn-git-tutorial/blob/master/lesson8.md)
 
 ## Lesson 9 - TODO
 
